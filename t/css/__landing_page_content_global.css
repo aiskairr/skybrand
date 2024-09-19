@@ -1,0 +1,94 @@
+:root {
+--primary-color-base: #ff0000;
+--primary-color-a-005: rgba(255, 0, 0, 0.05);
+--primary-color-l-5: #ff1a1a;
+--primary-color-l-10: #ff3333;
+--primary-color-l-15: #ff4d4d;
+--primary-color-l-20: #ff6666;
+--primary-color-l-25: #ff8080;
+--primary-color-l-30: #ff9999;
+--primary-color-l-35: #ffb3b3;
+--primary-color-l-40: #ffcccc;
+--primary-color-l-45: #ffe5e5;
+--primary-color-l-50: #ffffff;
+--primary-color-l-55: #ffffff;
+--primary-color-l-60: #ffffff;
+--primary-color-d-5: #e60000;
+--primary-color-d-10: #cc0000;
+--primary-color-a-01: rgba(255, 0, 0, 0.1);
+--primary-color-a-02: rgba(255, 0, 0, 0.2);
+--primary-color-a-03: rgba(255, 0, 0, 0.3);
+--primary-color-a-04: rgba(255, 0, 0, 0.4);
+--primary-color-a-05: rgba(255, 0, 0, 0.5);
+--primary-color-a-06: rgba(255, 0, 0, 0.6);
+--primary-color-a-07: rgba(255, 0, 0, 0.7);
+--primary-color-a-08: rgba(255, 0, 0, 0.8);
+--primary-color-a-09: rgba(255, 0, 0, 0.9);
+}
+/*** Start css of 6257076_ ***/
+
+.lpc-button--type-1 {
+	border-top-left-radius: 36px;
+	border-top-right-radius: 36px;
+	border-bottom-left-radius: 36px;
+	border-bottom-right-radius: 36px;
+	border-color: rgba(204,204,204,1);
+	border-style: none;
+	border-width: 0px;
+	border-transparent: 100%;
+	border-enabled: 1;
+}
+.lpc-button--type-1:hover {
+	border-top-left-radius: 36px;
+	border-top-right-radius: 36px;
+	border-bottom-left-radius: 36px;
+	border-bottom-right-radius: 36px;
+	border-color: rgb(224, 224, 224);
+}
+.lpc-button--type-1:focus {
+	border-top-left-radius: 36px;
+	border-top-right-radius: 36px;
+	border-bottom-left-radius: 36px;
+	border-bottom-right-radius: 36px;
+	border-color: rgb(224, 224, 224);
+}
+.lpc-button--type-1:active {
+	border-top-left-radius: 36px;
+	border-top-right-radius: 36px;
+	border-bottom-left-radius: 36px;
+	border-bottom-right-radius: 36px;
+	border-color: rgb(184, 184, 184);
+}
+.lpc-button--type-2 {
+	border-top-left-radius: 36px;
+	border-top-right-radius: 36px;
+	border-bottom-left-radius: 36px;
+	border-bottom-right-radius: 36px;
+	border-color: rgba(204,204,204,1);
+	border-style: none;
+	border-width: 0px;
+	border-enabled: 1;
+}
+.lpc-button--type-2:hover {
+	border-top-left-radius: 36px;
+	border-top-right-radius: 36px;
+	border-bottom-left-radius: 36px;
+	border-bottom-right-radius: 36px;
+	border-color: rgb(224, 224, 224);
+}
+.lpc-button--type-2:focus {
+	border-top-left-radius: 36px;
+	border-top-right-radius: 36px;
+	border-bottom-left-radius: 36px;
+	border-bottom-right-radius: 36px;
+	border-color: rgb(224, 224, 224);
+}
+.lpc-button--type-2:active {
+	border-top-left-radius: 36px;
+	border-top-right-radius: 36px;
+	border-bottom-left-radius: 36px;
+	border-bottom-right-radius: 36px;
+	border-color: rgb(184, 184, 184);
+}
+
+/*** End css of 6257076_ ***/
